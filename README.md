@@ -1,1 +1,1 @@
-# oss-boilerplates
+# oss-js-boilerplates
