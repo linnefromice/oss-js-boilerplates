@@ -8,7 +8,8 @@ Consolidate boiler templates for famous JavaScript frameworks in one place.
 
 ### Frontend
 
-^ Name ^ URL ^
+| Name | URL |
+| ------------- | ------------- |
 | React | https://reactjs.org/ |
 | Vue.js | https://vuejs.org/ |
 | Angular | https://angular.io/ |
@@ -16,14 +17,16 @@ Consolidate boiler templates for famous JavaScript frameworks in one place.
 
 ### Backend
 
-^ Name ^ URL ^
+| Name | URL |
+| ------------- | ------------- |
 | Express.js | https://expressjs.com/ |
 | METEOR | https://www.meteor.com/ |
 | Feathers JS | https://feathersjs.com/ |
 
 ### Special
 
-^ Name ^ Description ^ URL ^
+| Name | Description | URL |
+| ------------- | ------------- | ------------- |
 | Expo | Developing Tools based React Native Application / Mobile | https://expo.io/ |
 | Gatsby | Developing Tools based React Application / Web | https://www.gatsbyjs.org/ |
 
