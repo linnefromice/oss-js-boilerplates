@@ -14,6 +14,7 @@ Consolidate boiler templates for famous JavaScript frameworks in one place.
 | Vue.js | https://vuejs.org/ |
 | Angular | https://angular.io/ |
 | Preact | https://preactjs.com |
+| Quasar | https://quasar.dev/ |
 
 ### Backend
 
@@ -29,6 +30,7 @@ Consolidate boiler templates for famous JavaScript frameworks in one place.
 | ------------- | ------------- | ------------- |
 | Expo | Developing Tools based React Native Application / Mobile | https://expo.io/ |
 | Gatsby | Developing Tools based React Application / Web | https://www.gatsbyjs.org/ |
+| Ionic | Developing Tools based React Application / Mobile | https://ionicframework.com/ |
 
 ## Reference
 
